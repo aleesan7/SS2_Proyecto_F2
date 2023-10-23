@@ -8,50 +8,50 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Compras.cube</Name>
-      <FullPath>Compras.cube</FullPath>
+      <Name>CuboCompras.cube</Name>
+      <FullPath>CuboCompras.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Compras.partitions</Name>
-          <FullPath>Compras.partitions</FullPath>
+          <Name>CuboCompras.partitions</Name>
+          <FullPath>CuboCompras.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
     <ProjectItem>
-      <Name>Ventas.cube</Name>
-      <FullPath>Ventas.cube</FullPath>
+      <Name>CuboVentas.cube</Name>
+      <FullPath>CuboVentas.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Ventas.partitions</Name>
-          <FullPath>Ventas.partitions</FullPath>
+          <Name>CuboVentas.partitions</Name>
+          <FullPath>CuboVentas.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
-      <Name>Sucursal.dim</Name>
-      <FullPath>Sucursal.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Proveedor.dim</Name>
-      <FullPath>Proveedor.dim</FullPath>
+      <Name>Producto.dim</Name>
+      <FullPath>Producto.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Fecha.dim</Name>
       <FullPath>Fecha.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Producto.dim</Name>
-      <FullPath>Producto.dim</FullPath>
+      <Name>Proveedor.dim</Name>
+      <FullPath>Proveedor.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Cliente.dim</Name>
-      <FullPath>Cliente.dim</FullPath>
+      <Name>Sucursal.dim</Name>
+      <FullPath>Sucursal.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Vendedor.dim</Name>
       <FullPath>Vendedor.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Cliente.dim</Name>
+      <FullPath>Cliente.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

@@ -26,65 +26,65 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>3dWq9/mgMWitAUYA3W89hrfIC0Q=10/20/2023 2:55:35 PM10/20/2023 2:55:31 PM</TimeStamp>
+        <TimeStamp>laNwfrzf6I8wQch5mrQiGpwz808=10/23/2023 12:18:31 AM10/23/2023 12:14:22 AM</TimeStamp>
         <ID>
           <String>Seminario2 201114336</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>446sHdiuUP5pC+Lc6XNy5XkMbr8=10/21/2023 1:47:00 PM10/21/2023 1:40:07 PM</TimeStamp>
-        <ID>
-          <String>Sucursal</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>AnEfq6bsM6aGWAKflEjh8kIR5u4=10/21/2023 1:43:47 PM10/21/2023 1:40:07 PM</TimeStamp>
-        <ID>
-          <String>Proveedor</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>tLjiGr0XQTu4BgPICfM/etCQlRw=10/21/2023 1:47:38 PM10/21/2023 1:40:07 PM</TimeStamp>
-        <ID>
-          <String>Fecha</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Xv80/1LOLmsiijCBvEd3yyIEN9g=10/21/2023 1:48:07 PM10/21/2023 1:40:07 PM</TimeStamp>
+        <TimeStamp>UBR/O5eN04Czyi8YWfEhSVONbVk=10/23/2023 12:20:01 AM10/23/2023 12:19:30 AM</TimeStamp>
         <ID>
           <String>Producto</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Prs0pIpC9uyAJLg68JDBFF6bwu8=10/21/2023 2:29:06 PM10/21/2023 2:27:23 PM</TimeStamp>
+        <TimeStamp>luUYsZFuREYJ1UHHcPeypq8I3eQ=10/23/2023 12:20:29 AM10/23/2023 12:19:30 AM</TimeStamp>
         <ID>
-          <String>Cliente</String>
+          <String>Fecha</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>22k1ub37dVc6o1KlfvuxrQQc1aw=10/21/2023 2:29:18 PM10/21/2023 2:27:23 PM</TimeStamp>
+        <TimeStamp>Cv1NKIw8sXhnJj0a/mcTVyF1dK0=10/23/2023 12:21:22 AM10/23/2023 12:19:30 AM</TimeStamp>
+        <ID>
+          <String>Proveedor</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/jaGmP2SGSTGCkpJn8GjrcsfzFs=10/23/2023 12:20:59 AM10/23/2023 12:19:30 AM</TimeStamp>
+        <ID>
+          <String>Sucursal</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Yfz8XWAWSCOTrNZBsPCWTfKfKyI=10/23/2023 12:20:12 AM10/23/2023 12:19:45 AM</TimeStamp>
         <ID>
           <String>Vendedor</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>Vkh1z1q6XtJ43ibOuGsWReUyOTI=10/21/2023 2:22:50 PM10/21/2023 1:40:07 PMul+LPVe26hhTixlosw1KHLTCGLc=10/21/2023 1:40:08 PM10/21/2023 1:40:07 PM</TimeStamp>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>f3BH4O2euPF7ST/5WqWUUXFS4r4=10/23/2023 12:20:45 AM10/23/2023 12:19:45 AM</TimeStamp>
         <ID>
-          <String>Seminario2 201114336</String>
+          <String>Cliente</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>pRGwtViVSSen0uKtPhI/a+YP5Us=10/21/2023 2:29:18 PM10/21/2023 2:27:23 PMoebMkCj4q5uy+cFVCO+nLIIKpAY=10/21/2023 2:27:23 PM10/21/2023 2:27:23 PM</TimeStamp>
+        <TimeStamp>Ce3xHTXou0PDb4bvjUY4DrMoDzM=10/23/2023 12:21:22 AM10/23/2023 12:19:30 AMyd1zFLvdqDKbCUup7xOVMDUkejA=10/23/2023 12:19:30 AM10/23/2023 12:19:30 AM</TimeStamp>
         <ID>
-          <String>Ventas</String>
+          <String>CuboCompras</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>BSbNHLl1m7YNCR0Cj2f30OyU8Cs=10/23/2023 12:20:59 AM10/23/2023 12:19:45 AMWXCuZUKLSwzFIr9gVoae8qEL4vc=10/23/2023 12:19:46 AM10/23/2023 12:19:45 AM</TimeStamp>
+        <ID>
+          <String>CuboVentas</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -99,5 +99,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2023-10-21T20:30:05.146667Z</LastDeployed>
+  <LastDeployed>2023-10-23T06:21:38.823333Z</LastDeployed>
 </DeploymentSnapshot>
